@@ -29,7 +29,7 @@ cutBtn.addEventListener("click", function(){
 
 const msg = document.createElement("h3");
 
-msg.innerHTML = "🎉 Happy Birthday Tiya ❤️ 🎉";
+msg.innerHTML = "🎉 Happy Birthday... ❤️ 🎉";
 
 msg.style.marginTop = "30px";
 msg.style.color = "#ff2d75";
